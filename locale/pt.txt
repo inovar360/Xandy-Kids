@@ -52,10 +52,10 @@ panorama_6777A8D9_7732_BE76_41D2_E5EBCCF982F6.label = KIDS
 ## Action
 
 ### URL
-LinkBehaviour_252C0082_3221_85A9_41C2_355B9B87D5E4.source = https://www.instagram.com/sescrio/
-LinkBehaviour_25560A3C_3227_84D8_41C5_4AEA6536F690.source = https://m.facebook.com/SescRJ/
-LinkBehaviour_2A7EEA3A_3223_84D8_41BF_3621508505C1.source = https://www.youtube.com/user/portalsescrio
-LinkBehaviour_2AEAB46F_3222_8D77_418F_AA2E063C4D67.source = https://www.google.com/maps?cid=2593529082502747738
+LinkBehaviour_252C0082_3221_85A9_41C2_355B9B87D5E4.source = https://www.instagram.com/xandykids/
+LinkBehaviour_25560A3C_3227_84D8_41C5_4AEA6536F690.source = https://www.instagram.com/xandykids/
+LinkBehaviour_2A7EEA3A_3223_84D8_41BF_3621508505C1.source = https://www.instagram.com/xandykids/
+LinkBehaviour_2AEAB46F_3222_8D77_418F_AA2E063C4D67.source = https://www.google.com/maps?cid=1290827842599310140&_ga=2.154164152.1271089730.1634254398-784618086.1631383019
 LinkBehaviour_2B63EA55_33E6_84AB_41C3_5A91919E7131.source = https://www.sescrio.org.br/
 LinkBehaviour_574F982E_77D1_BE2A_41D0_957F436E9A6F.source = https://g.page/r/CTzTUHAV8ekREBA
 LinkBehaviour_6A295ED9_7731_B276_41CD_F8A43A433FA7.source = https://linktr.ee/xandykids
